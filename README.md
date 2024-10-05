@@ -33,6 +33,7 @@ project-management-tool/
 │   └── projectRoutes.js     # API routes
 ├── .env                     # Environment variables
 ├── server.js                # Main server file
+├── .gitignore               # Files that you dont want to push to repo
 ├── package.json             # Project dependencies and scripts
 ```
 
