@@ -32,8 +32,8 @@ project-management-tool/
 ├── routes/
 │   └── projectRoutes.js     # API routes
 ├── .env                     # Environment variables
-├── server.js                # Main server file
 ├── .gitignore               # Files that you dont want to push to repo
+├── server.js                # Main server file
 ├── package.json             # Project dependencies and scripts
 ```
 
@@ -64,6 +64,10 @@ project-management-tool/
 4. Start the server:
    ```
    npm start
+   ```
+   or
+   ```
+   nodemon server.js
    ```
 
    The server will run on `http://localhost:5001`.
